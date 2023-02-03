@@ -34,6 +34,7 @@ requirements:
   host:
     - r-base
     - r-kernelknn
+    - r-lifecycle
     - r-matrix
     - r-r6
     - r-rcpp >=0.12.7
@@ -47,6 +48,7 @@ requirements:
     - r-base
     - {{ native }}gcc-libs         # [win]
     - r-kernelknn
+    - r-lifecycle
     - r-matrix
     - r-r6
     - r-rcpp >=0.12.7
